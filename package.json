@@ -79,7 +79,7 @@
     "test:types": "tsc -p ./types"
   },
   "dependencies": {
-    "sax": "^1.2.4"
+    "sax": "yapit/patch-sax-js"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
